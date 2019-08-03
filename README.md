@@ -1,4 +1,4 @@
-### [Vincec Normalize CSS](https://vcec.gitlab.io/blog/2018/07/01/vnormalize-css/index.html) - vnorm.css
+### [Vincec Normalize CSS](https://vince-amazing.com/blog/2018/07/01/vnormalize-css/index.html) - vnorm.css
 
 For make life easier, I tweaked flex into a small normalize css file. Now with [vnorm.css](https://gitlab.com/vcec/vnrom), we can make layout much quickly, all following class default will add the setting of _Vertically Center_ to the child elements, and by different classes performing as:
 
